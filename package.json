@@ -1,4 +1,9 @@
 {
+  "name": "worst",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT",
 	"devDependencies": {
 		"lerna": "^2.1.2"
 	}
