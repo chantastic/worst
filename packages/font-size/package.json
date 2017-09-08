@@ -1,0 +1,12 @@
+{
+  "name": "font-size.css",
+  "version": "0.0.1",
+  "description": "",
+  "main": "font-size.css",
+  "style": "font-size.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT"
+}
