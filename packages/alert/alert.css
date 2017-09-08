@@ -1,0 +1,10 @@
+/*! alert.css */
+.alert {
+font-size: 1em;
+display: block;
+line-height: 3em;
+user-select: none;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+}

@@ -1,0 +1,12 @@
+{
+  "name": "alert.css",
+  "version": "0.0.2",
+  "description": "",
+  "main": "alert.css",
+  "style": "alert.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT"
+}
