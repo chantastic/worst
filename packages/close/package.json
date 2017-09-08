@@ -1,0 +1,12 @@
+{
+  "name": "close.css",
+  "version": "0.0.2",
+  "description": "",
+  "main": "close.css",
+  "style": "close.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT"
+}

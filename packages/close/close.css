@@ -1,0 +1,3 @@
+/*! close.css */
+.close{text-decoration: none}
+.close:after{content:'✖'}
