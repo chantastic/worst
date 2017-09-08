@@ -1,0 +1,12 @@
+{
+  "name": "clearfix.css",
+  "version": "0.0.2",
+  "description": "",
+  "main": "clearfix.css",
+  "style": "clearfix.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT"
+}
