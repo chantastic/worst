@@ -1,0 +1,19 @@
+/*! view.css */
+.view{
+display:flex;
+flex-direction:column;
+}
+.view_body{display:flex;}
+@media(max-width:767px){
+.view_body {
+flex-direction:column;
+}
+}
+@media(min-width:768px){
+.view_body{
+flex-direction:row;
+flex:1;
+}
+}
+@media(min-width:768px){
+.view_content{flex:1}
