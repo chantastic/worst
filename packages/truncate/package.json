@@ -1,0 +1,12 @@
+{
+  "name": "truncate.css",
+  "version": "0.0.1",
+  "description": "",
+  "main": "truncate.css",
+  "style": "truncate.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT"
+}
