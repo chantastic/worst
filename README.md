@@ -4,6 +4,7 @@ a collection of one-off css classes. some useful, most not.
 # packages
 * alert
 * backdrop
+* bar
 * blockquote
 * blockquote
 * cf
