@@ -1,0 +1,12 @@
+{
+  "name": "unbutton.css",
+  "version": "0.0.0",
+  "description": "",
+  "main": "unbutton.css",
+  "style": "unbutton.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT"
+}
