@@ -1,0 +1,12 @@
+{
+  "name": "label.css",
+  "version": "0.0.2",
+  "description": "",
+  "main": "label.css",
+  "style": "label.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT"
+}
