@@ -1,0 +1,12 @@
+{
+  "name": "notice.css",
+  "version": "0.0.2",
+  "description": "",
+  "main": "notice.css",
+  "style": "notice.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT"
+}
