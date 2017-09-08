@@ -1,0 +1,12 @@
+{
+  "name": "textarea.css",
+  "version": "0.0.2",
+  "description": "",
+  "main": "textarea.css",
+  "style": "textarea.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT"
+}
