@@ -1,0 +1,12 @@
+{
+  "name": "list.css",
+  "version": "0.0.2",
+  "description": "",
+  "main": "list.css",
+  "style": "list.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT"
+}
