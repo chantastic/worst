@@ -16,6 +16,7 @@ a collection of one-off css classes. some useful, most not.
 * label
 * length
 * list
+* measure
 * media
 * notice
 * overlay
